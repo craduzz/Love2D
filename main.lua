@@ -22,5 +22,3 @@ function love.draw()
         'center'
     )
 end
-
-
